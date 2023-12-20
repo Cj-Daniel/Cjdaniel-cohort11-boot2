@@ -1,0 +1,37 @@
+.social .faceb {
+    padding: 8px 12px;
+    border-radius: 50%;
+    background-color: rgb(48, 48, 138);
+    color: white;
+    font-size: 14px;
+
+}
+
+.social .twit {
+    padding: 8px 10px;
+    border-radius: 50%;
+    background-color: rgb(87, 167, 241);
+    color: white;
+    font-size: 14px;
+
+}
+
+.social .yout {
+    padding: 8px 9px;
+    border-radius: 50%;
+    background-color: rgb(196, 40, 40);
+    color: white;
+    font-size: 14px;
+
+}
+
+.position-absolute {
+    top: -20px;
+    width: 90%;
+    left: 15px;
+    border-radius: 10px;
+}
+
+.first-card {
+    margin-top: 50%;
+}
